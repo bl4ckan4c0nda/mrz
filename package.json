@@ -1,0 +1,14 @@
+{
+  "name": "telegrambottest",
+  "version": "1.0.0",
+  "description": "create a telegram bot that say hello",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "telebot": "^1.4.1"
+  }
+}
